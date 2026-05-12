@@ -14,7 +14,9 @@ First, I performed a network scan using Nmap to identify open ports and services
 ```bash
 nmap -sV <IP>
 
-[Nmap Scan](nmap.png)```
+
+```
+![Nmap Scan](nmap.png)
 
 ### Result:
 - Port 23 open (Telnet service detected)
@@ -47,7 +49,7 @@ cat flag.txt
 I retrieved the flag successfully.
 
 ---
-
+![Flag](got%20flag.png)
 # Key Learnings
 - Basic network enumeration using Nmap
 - Understanding Telnet service and its risks
