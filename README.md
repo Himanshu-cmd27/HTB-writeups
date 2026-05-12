@@ -13,7 +13,8 @@ First, I performed a network scan using Nmap to identify open ports and services
 
 ```bash
 nmap -sV <IP>
-```
+
+![Nmap Scan](nmap.png)```
 
 ### Result:
 - Port 23 open (Telnet service detected)
