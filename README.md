@@ -20,7 +20,7 @@ nmap -sV <IP>
 
 ---
 
-## 🚪 Gaining Access
+##  Gaining Access
 
 Since Telnet service was open, I connected to the target using:
 
@@ -32,7 +32,7 @@ No authentication was required, and I successfully gained access to the system.
 
 ---
 
-## 🏁 Flag Retrieval
+## Flag Retrieval
 
 After logging in, I explored the system and located the flag file.
 
