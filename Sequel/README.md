@@ -55,7 +55,7 @@ And viewed the available tables:
 SHOW TABLES;
 ```
 
-![Database Enumeration](database.png)
+![Database Enumeration]
 
 ---
 
