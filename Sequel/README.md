@@ -17,7 +17,7 @@ nmap -sV <IP>
 - Port 3306 open
 - MySQL service detected
 
-![Nmap Scan](nmap.png)
+![Nmap Scan](sequelnmap.png)
 
 ---
 
@@ -31,7 +31,7 @@ mysql -h <IP> -u root
 
 The connection was successful without requiring a password.
 
-![MySQL Login](mysql-login.png)
+
 
 ---
 
@@ -69,7 +69,7 @@ SELECT * FROM config;
 
 The flag was successfully retrieved.
 
-![Flag](flag.png)
+![Flag](sequelflag.png)
 
 ---
 
