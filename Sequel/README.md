@@ -17,7 +17,7 @@ nmap -sV <IP>
 - Port 3306 open
 - MySQL service detected
 
-![Nmap Scan](sequelnmap.png)
+![Nmap Scan](nmap.png)
 
 ---
 
@@ -69,7 +69,7 @@ SELECT * FROM config;
 
 The flag was successfully retrieved.
 
-![Flag](sequelflag.png)
+![Flag](flag.png)
 
 ---
 
