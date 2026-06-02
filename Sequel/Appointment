@@ -30,15 +30,15 @@ Using a SQL Injection payload, I was able to bypass the login mechanism and gain
 
 > Payload omitted for learning purposes.
 
-![Successful Login](access.png)
+![Successful Login](gotaccess.png)
 
 ---
 
-## 🏁 Flag Retrieval
+##  Flag Retrieval
 
 After gaining access to the application, I navigated through the available pages and successfully retrieved the flag.
 
-![Flag](flaggg.png)
+![Flag](rootflag.png)
 
 ---
 
