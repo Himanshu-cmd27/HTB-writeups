@@ -38,7 +38,7 @@ Using a SQL Injection payload, I was able to bypass the login mechanism and gain
 
 After gaining access to the application, I navigated through the available pages and successfully retrieved the flag.
 
-![Flag](flag.png)
+![Flag](flaggg.png)
 
 ---
 
