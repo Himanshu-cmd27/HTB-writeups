@@ -1,0 +1,50 @@
+# Appointment - Hack The Box (Starting Point)
+
+##  Objective
+
+The objective of this machine was to gain access to a web application by identifying and exploiting a SQL Injection vulnerability.
+
+---
+
+# Enumeration
+
+I started by visiting the target web application in the browser.
+
+The application presented a login page.
+
+![Login Page](login-page.png)
+
+---
+
+##  Testing the Login Form
+
+Since the application only provided a username and password form, I tested for common authentication bypass vulnerabilities.
+
+I identified that the login form was vulnerable to SQL Injection.
+
+---
+
+## Authentication Bypass
+
+Using a SQL Injection payload, I was able to bypass the login mechanism and gain access to the application.
+
+> Payload omitted for learning purposes.
+
+![Successful Login](access.png)
+
+---
+
+## 🏁 Flag Retrieval
+
+After gaining access to the application, I navigated through the available pages and successfully retrieved the flag.
+
+![Flag](flag.png)
+
+---
+
+## 📚 Key Learnings
+
+- Understanding authentication mechanisms
+- Identifying SQL Injection vulnerabilities
+- Authentication bypass techniques
+- Importance of input validation and parameterized queries
