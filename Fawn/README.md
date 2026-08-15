@@ -4,4 +4,10 @@ First i scanned the target IP using nmap to find open ports and service. then i 
 ![Nmap Scan](fawnmap.png)
 ## 2. Ftp Enumeration
 I connected to ftp service   
-![FTP](
+![FTP](ftp.png)
+The server allowed anonymous login 
+username : anonymous 
+password : anonymous
+## 3. File enumeration 
+After logging i listed the file 
+and then found file then i download 
