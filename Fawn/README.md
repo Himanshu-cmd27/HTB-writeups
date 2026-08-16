@@ -13,7 +13,8 @@ password : anonymous
 After logging i listed the file using ls command 
 and then found that file with name of 'flag.txt' then i downloaded it using get command 
 ## Flag
-After that i opened it and got that flag 
+After that i opened it using cat command and got that flag 
+
 ![Flag](flag.png)
 
 ## What I Learned
