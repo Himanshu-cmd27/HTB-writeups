@@ -9,7 +9,7 @@ I connected to ftp service
 The server allowed anonymous login.
 username : anonymous 
 password : anonymous
-## 3. File enumeration 
 After logging i listed the file using ls command 
 and then found that file with name of 'flag.txt' then i downloaded it using get command 
+## Flag
 After that i opened it and got that flag 
