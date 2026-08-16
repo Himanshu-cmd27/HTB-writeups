@@ -18,7 +18,7 @@ After that i opened it using cat command and got that flag
 ![Flag](flag.png)
 
 ## What I Learned
-How to identify FTP using Nmap.
-How to connect to an FTP server.
-What anonymous FTP login is.
-How to list and download FTP file from FTP server.
+1. How to identify FTP using Nmap.
+2. How to connect to an FTP server.
+3. What anonymous FTP login is.
+4. How to list and download FTP file from FTP server.
