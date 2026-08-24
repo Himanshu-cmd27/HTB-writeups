@@ -15,7 +15,7 @@ After connecting, i checked the availabel information in Redis  using info  and 
 
 # Flag 
 I found key containing the information.
-I used get key 
+I used get <key>
 and flag  was displayed in the output
 
 ![flag](flag.png)
